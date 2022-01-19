@@ -60,6 +60,8 @@ window.addEventListener('load', () => {
                         case '03n':
                             con = "PARTLY_CLOUDY_NIGHT";
                             break;
+                        default '01n':
+                            break;
                     }
                     console.log(icon);
                     setIcons(con, document.querySelector('.icon'))
