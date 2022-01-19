@@ -60,7 +60,7 @@ window.addEventListener('load', () => {
                         case '03n':
                             con = "PARTLY_CLOUDY_NIGHT";
                             break;
-                        default '01n':
+                        default 'CLEAR_NIGHT':
                             break;
                     }
                     console.log(icon);
