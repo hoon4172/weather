@@ -62,7 +62,7 @@ window.addEventListener('load', () => {
                             break;
                         default:
                             con = "CLEAR_NIGHT";
-                            break;
+                            
                        
                     }
                     console.log(icon);
